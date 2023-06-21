@@ -1,0 +1,7 @@
+pip install pyttsx3
+pip install SpeechRecognition
+pip install Wikipedia
+pip install smtplib
+pip install pyautogui
+pip install psutil
+pip install pyjokes
